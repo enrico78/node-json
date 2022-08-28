@@ -1,0 +1,5 @@
+function alabama() {
+    window.AnimationEvent();    
+}
+
+
